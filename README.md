@@ -1,0 +1,2 @@
+# Quant
+Quantitative trading platform
