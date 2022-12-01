@@ -1,0 +1,14 @@
+2021-10-14 17:07:12: -- Analysis Started by User
+2021-10-14 17:07:13: Left to Right: Copy File: 6 Delete File: 1 
+2021-10-14 17:07:13: ----- ：分析已结束。 历时 00:00:02， 速度： 354 个文件/秒 -----
+2021-10-14 17:07:13: 
+2021-10-14 17:07:15: == Sync Started by User
+2021-10-14 17:07:15: 删除文件 'sftp://192.168.17.220/home/Docker/python3/Falsk_wytt/qts/lib/timer_task.py'
+2021-10-14 17:07:15: 覆盖复制 'E:/新的策略代码/Falsk_wytt/qts/constants.py' -> 'sftp://192.168.17.220/home/Docker/python3/Falsk_wytt/qts/constants.py'
+2021-10-14 17:07:15: 覆盖复制 'E:/新的策略代码/Falsk_wytt/qts/lib/depth.py' -> 'sftp://192.168.17.220/home/Docker/python3/Falsk_wytt/qts/lib/depth.py'
+2021-10-14 17:07:15: 覆盖复制 'E:/新的策略代码/Falsk_wytt/qts/utils/exchange/BINANCE/wsClient.py' -> 'sftp://192.168.17.220/home/Docker/python3/Falsk_wytt/qts/utils/exchange/BINANCE/wsClient.py'
+2021-10-14 17:07:15: 覆盖复制 'E:/新的策略代码/Falsk_wytt/qts/utils/exchange/huobi/wsClient.py' -> 'sftp://192.168.17.220/home/Docker/python3/Falsk_wytt/qts/utils/exchange/huobi/wsClient.py'
+2021-10-14 17:07:16: 覆盖复制 'E:/新的策略代码/Falsk_wytt/qts/utils/exchange/TAIBI/wsClient.py' -> 'sftp://192.168.17.220/home/Docker/python3/Falsk_wytt/qts/utils/exchange/TAIBI/wsClient.py'
+2021-10-14 17:07:16: 覆盖复制 'E:/新的策略代码/Falsk_wytt/qts/utils/quotation/quotApi.py' -> 'sftp://192.168.17.220/home/Docker/python3/Falsk_wytt/qts/utils/quotation/quotApi.py'
+2021-10-14 17:07:16: ===== ：同步完毕。时间：00:00:02，速度： 14.1 KB/s =====, 项目同步未必： 7，错误： 0
+2021-10-14 17:07:16: 

@@ -1,0 +1,26 @@
+2021-10-14 10:03:36: -- Analysis Started by User
+2021-10-14 10:03:36: 左侧: State file does not exist: E:/新的策略代码/Falsk_wytt/_gsdata_/_file_state_v4._gs
+2021-10-14 10:03:37: /celery_task/task.py: 冲突: 新文件有变化
+2021-10-14 10:03:37: /celerybeat-schedule: 冲突: 新文件有变化
+2021-10-14 10:03:37: /celerybeat.pid: 冲突: 新文件有变化
+2021-10-14 10:03:37: /config.py: 冲突: 新文件有变化
+2021-10-14 10:03:37: /gunicorn.py: 冲突: 新文件有变化
+2021-10-14 10:03:37: /qts/lib/accounts.py: 冲突: 新文件有变化
+2021-10-14 10:03:37: /qts/lib/thraed_control.py: 冲突: 新文件有变化
+2021-10-14 10:03:37: 分析完毕并发现冲突情况。如需解决冲突请选择正常的同步方向。
+2021-10-14 10:03:37: Right to Left: Copy File: 2 Copy State: 354 
+2021-10-14 10:03:37: ----- ：分析已结束。 历时 00:00:02， 速度： 354 个文件/秒 -----
+2021-10-14 10:03:37: 
+2021-10-14 10:03:43: New _gsdata_ folder(s) created, so rescan all job folders for their ghosts
+2021-10-14 10:03:43: == Sync Started by User
+2021-10-14 10:03:44: 创建文件夹 'E:/新的策略代码/Falsk_wytt/__pycache__'
+2021-10-14 10:03:44: 覆盖复制 'E:/新的策略代码/Falsk_wytt/celery_task/task.py' -> 'sftp://192.168.17.220/home/Docker/python3/Falsk_wytt/celery_task/task.py' (User Action)
+2021-10-14 10:03:44: 覆盖复制 'E:/新的策略代码/Falsk_wytt/celerybeat-schedule' -> 'sftp://192.168.17.220/home/Docker/python3/Falsk_wytt/celerybeat-schedule' (User Action)
+2021-10-14 10:03:44: 新建复制 'E:/新的策略代码/Falsk_wytt/celerybeat.pid' -> 'sftp://192.168.17.220/home/Docker/python3/Falsk_wytt/celerybeat.pid' (User Action)
+2021-10-14 10:03:44: 覆盖复制 'E:/新的策略代码/Falsk_wytt/config.py' -> 'sftp://192.168.17.220/home/Docker/python3/Falsk_wytt/config.py' (User Action)
+2021-10-14 10:03:44: 覆盖复制 'E:/新的策略代码/Falsk_wytt/gunicorn.py' -> 'sftp://192.168.17.220/home/Docker/python3/Falsk_wytt/gunicorn.py' (User Action)
+2021-10-14 10:03:44: 覆盖复制 'E:/新的策略代码/Falsk_wytt/qts/lib/accounts.py' -> 'sftp://192.168.17.220/home/Docker/python3/Falsk_wytt/qts/lib/accounts.py' (User Action)
+2021-10-14 10:03:44: 覆盖复制 'E:/新的策略代码/Falsk_wytt/qts/lib/thraed_control.py' -> 'sftp://192.168.17.220/home/Docker/python3/Falsk_wytt/qts/lib/thraed_control.py' (User Action)
+2021-10-14 10:03:44: 新建复制 'sftp://192.168.17.220/home/Docker/python3/Falsk_wytt/qts/lib/timer_task.py' -> 'E:/新的策略代码/Falsk_wytt/qts/lib/timer_task.py'
+2021-10-14 10:03:45: ===== ：同步完毕。时间：00:00:02，速度： 115 KB/s =====, 项目同步未必： 363，错误： 0
+2021-10-14 10:03:45: 
